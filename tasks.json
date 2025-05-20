@@ -3,6 +3,24 @@
     "subject": "ㅇ",
     "description": "ㅇ",
     "due": "2025-05-21",
+    "done": true
+  },
+  {
+    "subject": "컴수",
+    "description": "코드 해석",
+    "due": "2025-05-23",
     "done": false
+  },
+  {
+    "subject": "생법",
+    "description": "ppt 제작",
+    "due": "2025-05-22",
+    "done": false
+  },
+  {
+    "subject": "스시입",
+    "description": "시민 인터뷰",
+    "due": "2025-05-22",
+    "done": true
   }
 ]
