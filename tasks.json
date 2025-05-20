@@ -22,5 +22,11 @@
     "description": "시민 인터뷰",
     "due": "2025-05-22",
     "done": true
+  },
+  {
+    "subject": "가리십",
+    "description": "과제",
+    "due": "2025-05-24",
+    "done": false
   }
 ]
