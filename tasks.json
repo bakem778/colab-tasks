@@ -4,27 +4,27 @@
     "description": "코드 해석",
     "due": "2025-05-23",
     "done": true,
-    "discord_id": ""
+    "discord_id": NaN
   },
   {
     "subject": "생법",
     "description": "ppt 제작",
     "due": "2025-05-22",
     "done": false,
-    "discord_id": ""
+    "discord_id": NaN
   },
   {
     "subject": "가리십",
     "description": "과제",
     "due": "2025-05-24",
     "done": true,
-    "discord_id": ""
+    "discord_id": NaN
   },
   {
     "subject": "스시입",
     "description": "과제",
     "due": "2025-05-30",
     "done": false,
-    "discord_id": ""
+    "discord_id": NaN
   }
 ]
