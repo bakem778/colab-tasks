@@ -3,24 +3,28 @@
     "subject": "컴수",
     "description": "코드 해석",
     "due": "2025-05-23",
-    "done": true
+    "done": true,
+    "discord_id": ""
   },
   {
     "subject": "생법",
     "description": "ppt 제작",
     "due": "2025-05-22",
-    "done": false
+    "done": false,
+    "discord_id": ""
   },
   {
     "subject": "가리십",
     "description": "과제",
     "due": "2025-05-24",
-    "done": true
+    "done": true,
+    "discord_id": ""
   },
   {
     "subject": "스시입",
     "description": "과제",
     "due": "2025-05-30",
-    "done": false
+    "done": false,
+    "discord_id": ""
   }
 ]
