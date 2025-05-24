@@ -1,0 +1,14 @@
+name: Ping Replit on Push
+
+on:
+  push:
+    paths:
+      - 'tasks.json'
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl to Replit
+        run: |
+          curl -s https://discord-task-notifier.bakem778.repl.co/
