@@ -1,23 +1,23 @@
 [
   {
     "subject": "에프입",
-    "description": "조별 과제",
+    "description": "조별과제",
     "due": "2025-05-27",
     "done": false,
-    "discord_id": "679286308299866112"
+    "discord_id": "679286308299866117"
   },
   {
     "subject": "스시입",
-    "description": "소감문",
-    "due": "2025-05-26",
-    "done": true,
-    "discord_id": "679286308299866112"
+    "description": "조별미팅",
+    "due": "2025-05-28",
+    "done": false,
+    "discord_id": "679286308299866117"
   },
   {
     "subject": "컴수",
-    "description": "기말 정리",
-    "due": "2025-05-28",
-    "done": false,
-    "discord_id": "679286308299866112"
+    "description": "정리",
+    "due": "2025-05-26",
+    "done": true,
+    "discord_id": "679286308299866117"
   }
 ]
