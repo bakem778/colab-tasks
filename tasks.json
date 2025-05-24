@@ -1,16 +1,16 @@
 [
   {
-    "subject": "컴수",
-    "description": "코드 정리",
+    "subject": "스시",
+    "description": "소감문",
     "due": "2025-05-25",
     "done": false,
     "discord_id": "679286308299866112"
   },
   {
-    "subject": "스시입",
-    "description": "소감문",
-    "due": "2025-05-26",
-    "done": true,
+    "subject": "컴수",
+    "description": "코드정리",
+    "due": "2025-05-24",
+    "done": false,
     "discord_id": "679286308299866112"
   }
 ]
