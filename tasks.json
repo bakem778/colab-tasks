@@ -1,26 +1,30 @@
 [
   {
-    "subject": "컴퓨터수학",
-    "description": "코딩과제제출",
+    "subject": "스시",
+    "description": "설명",
+    "due": "2025-05-25",
+    "done": false,
+    "discord_id": "679286308299866112"
+  },
+  {
+    "subject": "컴수",
+    "description": "해석",
     "due": "2025-05-26",
-    "done": false
+    "done": true,
+    "discord_id": "679286308299866112"
   },
   {
-    "subject": "스마트시티입문",
-    "description": "녹화 강의 수강",
+    "subject": "생법",
+    "description": "기말 준비",
+    "due": "2025-05-25",
+    "done": false,
+    "discord_id": "679286308299866112"
+  },
+  {
+    "subject": "제발",
+    "description": "좀",
     "due": "2025-05-24",
-    "done": false
-  },
-  {
-    "subject": "스마트시티입문",
-    "description": "팀프로젝트 미팅",
-    "due": "2025-05-28",
-    "done": false
-  },
-  {
-    "subject": "AI프로그래밍 입문",
-    "description": "팀프로젝트 발표 준비",
-    "due": "2025-05-28",
-    "done": false
+    "done": false,
+    "discord_id": "679286308299866112"
   }
 ]
