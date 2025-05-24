@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Curl to Replit
         run: |
-          curl -s https://discord-task-notifier.bakem778.repl.co/
+          curl -s https://c3fe5641-b22b-4a8b-8acf-40996cf82e9e-00-13bevjm464pw4.sisko.replit.dev/
