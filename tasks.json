@@ -1,15 +1,22 @@
 [
   {
-    "subject": "스시",
-    "description": "소감문",
-    "due": "2025-05-25",
+    "subject": "에프입",
+    "description": "조별 과제",
+    "due": "2025-05-27",
     "done": false,
     "discord_id": "679286308299866112"
   },
   {
+    "subject": "스시입",
+    "description": "소감문",
+    "due": "2025-05-26",
+    "done": true,
+    "discord_id": "679286308299866112"
+  },
+  {
     "subject": "컴수",
-    "description": "코드정리",
-    "due": "2025-05-24",
+    "description": "기말 정리",
+    "due": "2025-05-28",
     "done": false,
     "discord_id": "679286308299866112"
   }
