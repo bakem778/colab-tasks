@@ -4,5 +4,23 @@
     "description": "팀프로젝트 준비",
     "due": "2025-05-28",
     "done": false
+  },
+  {
+    "subject": "컴퓨터수학",
+    "description": "코딩 제출",
+    "due": "2025-05-26",
+    "done": false
+  },
+  {
+    "subject": "스마트시티입문",
+    "description": "팀프로젝트 미팅",
+    "due": "2025-05-28",
+    "done": true
+  },
+  {
+    "subject": "스마트시티입문",
+    "description": "녹화 강의 수강",
+    "due": "2025-05-29",
+    "done": true
   }
 ]
