@@ -1,9 +1,8 @@
-name: Ping Replit on Push
+name: Ping Replit Daily at 9AM
 
 on:
-  push:
-    paths:
-      - 'tasks.json'
+  schedule:
+    - cron: '0 0 * * *'  # UTC 기준 → 한국 오전 9시
 
 jobs:
   ping:
@@ -11,4 +10,4 @@ jobs:
     steps:
       - name: Curl to Replit
         run: |
-          curl -s https://c3fe5641-b22b-4a8b-8acf-40996cf82e9e-00-13bevjm464pw4.sisko.replit.dev/
+          curl -s https://4f6a249b-41e4-4bb3-bd06-40e0402f16d1-00-3cr5qxfbva3cm.pike.replit.dev/
