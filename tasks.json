@@ -1,26 +1,5 @@
 [
   {
-    "subject": "컴수",
-    "description": "코드 해석",
-    "due": "2025-05-23",
-    "done": true,
-    "discord_id": ""
-  },
-  {
-    "subject": "생법",
-    "description": "ppt 제작",
-    "due": "2025-05-22",
-    "done": false,
-    "discord_id": ""
-  },
-  {
-    "subject": "가리십",
-    "description": "과제",
-    "due": "2025-05-24",
-    "done": true,
-    "discord_id": ""
-  },
-  {
     "subject": "스시입",
     "description": "과제",
     "due": "2025-05-30",
@@ -28,16 +7,9 @@
     "discord_id": ""
   },
   {
-    "subject": "ㅇ",
-    "description": "ㅇ",
-    "due": "2025-05-24",
-    "done": false,
-    "discord_id": "1375126091357749248"
-  },
-  {
-    "subject": "ㅇ",
-    "description": "ㅇ",
-    "due": "2025-05-24",
+    "subject": "컴수",
+    "description": "코드 정리",
+    "due": "2025-05-25",
     "done": false,
     "discord_id": "679286308299866112"
   }
