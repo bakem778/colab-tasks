@@ -10,5 +10,11 @@
     "description": "녹화강의수강",
     "due": "2025-05-24",
     "done": false
+  },
+  {
+    "subject": "컴퓨터수학",
+    "description": "코딩과제제출",
+    "due": "2025-05-26",
+    "done": false
   }
 ]
