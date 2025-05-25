@@ -1,5 +1,19 @@
 [
   {
+    "subject": "컴수",
+    "description": "정리",
+    "due": "2025-05-26",
+    "done": true,
+    "discord_id": "679286308299866117"
+  },
+  {
+    "subject": "생법",
+    "description": "ppt 제작",
+    "due": "2025-05-26",
+    "done": false,
+    "discord_id": "679286308299866117"
+  },
+  {
     "subject": "에프입",
     "description": "조별과제",
     "due": "2025-05-27",
@@ -11,13 +25,6 @@
     "description": "조별미팅",
     "due": "2025-05-28",
     "done": false,
-    "discord_id": "679286308299866117"
-  },
-  {
-    "subject": "컴수",
-    "description": "정리",
-    "due": "2025-05-26",
-    "done": true,
     "discord_id": "679286308299866117"
   }
 ]
