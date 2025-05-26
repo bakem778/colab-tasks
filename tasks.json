@@ -1,5 +1,19 @@
 [
   {
+    "subject": "스시입",
+    "description": "소감문",
+    "due": "2025-05-26",
+    "done": false,
+    "discord_id": "679286308299866117"
+  },
+  {
+    "subject": "컴수",
+    "description": "코드 정리",
+    "due": "2025-05-28",
+    "done": true,
+    "discord_id": "679286308299866117"
+  },
+  {
     "subject": "컴수",
     "description": "코드 해석",
     "due": "2025-05-30",
