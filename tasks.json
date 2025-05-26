@@ -9,14 +9,14 @@
   {
     "subject": "스시입",
     "description": "소감문 작성",
-    "due": "2025-05-27",
-    "done": false,
+    "due": "2025-05-28",
+    "done": true,
     "discord_id": "679286308299866117"
   },
   {
     "subject": "에프입",
-    "description": "PPT 제작",
-    "due": "2025-05-28",
+    "description": "발표",
+    "due": "2025-05-29",
     "done": false,
     "discord_id": "679286308299866117"
   },
