@@ -1,26 +1,5 @@
 [
   {
-    "subject": "생법",
-    "description": "ppt 제작",
-    "due": "2025-05-26",
-    "done": false,
-    "discord_id": "679286308299866117"
-  },
-  {
-    "subject": "스시입",
-    "description": "소감문 작성",
-    "due": "2025-05-28",
-    "done": true,
-    "discord_id": "679286308299866117"
-  },
-  {
-    "subject": "에프입",
-    "description": "발표",
-    "due": "2025-05-29",
-    "done": false,
-    "discord_id": "679286308299866117"
-  },
-  {
     "subject": "컴수",
     "description": "코드 해석",
     "due": "2025-05-30",
